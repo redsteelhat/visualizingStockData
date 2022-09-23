@@ -20,4 +20,4 @@ import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 from mplfinance.original_flavor import candlestick_ohlc
 ```
-[MIT](https://choosealicense.com/licenses/mit/)
+<img width="641" alt="graphic_image" src="https://user-images.githubusercontent.com/104461400/192062579-b5fcab20-fce9-440e-bed3-2db7f45bf3b7.png">
